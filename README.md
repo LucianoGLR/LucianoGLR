@@ -13,39 +13,27 @@ Hi, I'm Luciano Gallinger!
 <hr>
 
 <pre>
-💻 I am a self Full Stack Developer
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌟 Main languages: JavaScript, PostgreSQL, Express, React.js, Redux
-🚩 Interested in Full Stack Learning Application development
-🤔 I’m currently open for: An Intern or a new job opportunity, this is <a href="" target="_blank">MY RESUME.</a>
-</pre>
-<hr>
-
-<pre>
 🛠️ What I Do
 Currently, I am dedicated to:
 
-- Developing interactive and high-performance web applications using the latest technologies.
-- Contributing to open source projects that foster collaborative learning and technological innovation.
-- Learning and applying new technologies and methodologies in the field of programming to stay at the forefront of web development.
-
+Developing interactive and high-performance web applications using the latest technologies.
+Contributing to open source projects that foster collaborative learning and technological innovation.
+Learning and applying new technologies and methodologies in the field of programming to stay at the forefront of web development.
 💻 Technologies I Use
 My projects are built using a wide range of modern technologies, including:
 
-- **Frontend:** HTML, CSS, JavaScript, React, Redux
-- **Backend:** Node.js, Express
-- **Databases:** PostgreSQL
-- **Development Tools:** Git, GitHub
+Frontend: HTML, CSS, JavaScript, React, Redux
+Backend: Node.js, Express
+Databases: PostgreSQL
+Development Tools: Git, GitHub
 I am always exploring new technologies and techniques to improve the quality and efficiency of my projects.
 
 📬 Contact Information
 For collaborations or any inquiries, feel free to contact me:
 
-- **Email:** [lucianogallinger@gmail.com](mailto:lucianogallinger@gmail.com)
-- **LinkedIn:** [Luciano Gallinger](https://www.linkedin.com/in/lucianogallinger)
-- **GitHub:** [@LucianoGLR](https://github.com/LucianoGLR)
-
+Email: lucianogallinger@gmail.com
+LinkedIn: Luciano Gallinger
+GitHub: @LucianoGLR
 <pre/>
 
 ## 🤝 Connect with me
