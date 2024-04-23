@@ -22,7 +22,8 @@ but also provide an optimal user experience.
 Currently, I am dedicated to:
 Developing interactive and high-performance web applications using the latest technologies.
 Contributing to open source projects that foster collaborative learning and technological innovation.
-Learning and applying new technologies and methodologies in the field of programming to stay at the forefront of web development.
+Learning and applying new technologies and methodologies in the field of programming to stay at the forefront of web
+development.
 	
 <h4>💻 Technologies I Use</h4>
 	
