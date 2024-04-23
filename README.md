@@ -15,24 +15,24 @@ About Me!
 <pre>
 Hi there! I'm Luciano Gallinger, a passionate Full Stack Developer with a focus on backend, based in Rosario, Santa Fe, Argentina. I specialize in developing efficient and robust web solutions that not only meet functional expectations but also provide an optimal user experience.
 	
-<h3>🛠️ What I Do</h3>
+<h4>🛠️ What I Do</h4>
 Currently, I am dedicated to:
-
 Developing interactive and high-performance web applications using the latest technologies.
 Contributing to open source projects that foster collaborative learning and technological innovation.
 Learning and applying new technologies and methodologies in the field of programming to stay at the forefront of web development.
-💻 Technologies I Use
+	
+<h4>💻 Technologies I Use</h4>
+	
 My projects are built using a wide range of modern technologies, including:
-
 Frontend: HTML, CSS, JavaScript, React, Redux
 Backend: Node.js, Express
 Databases: PostgreSQL
 Development Tools: Git, GitHub
 I am always exploring new technologies and techniques to improve the quality and efficiency of my projects.
 
-<h3>📬 Contact Information</h3>
+<h4>📬 Contact Information</h4>
+	
 For collaborations or any inquiries, feel free to contact me:
-
 Email: lucianogallinger@gmail.com
 LinkedIn: Luciano Gallinger
 GitHub: @LucianoGLR
