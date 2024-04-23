@@ -15,7 +15,7 @@ About Me!
 <pre>
 Hi there! I'm Luciano Gallinger, a passionate Full Stack Developer with a focus on backend, based in Rosario, Santa Fe, Argentina. I specialize in developing efficient and robust web solutions that not only meet functional expectations but also provide an optimal user experience.
 	
-<h2>🛠️ What I Do</h2>
+<h3>🛠️ What I Do</h3>
 Currently, I am dedicated to:
 
 Developing interactive and high-performance web applications using the latest technologies.
@@ -30,7 +30,7 @@ Databases: PostgreSQL
 Development Tools: Git, GitHub
 I am always exploring new technologies and techniques to improve the quality and efficiency of my projects.
 
-📬 Contact Information
+<h3>📬 Contact Information</h3>
 For collaborations or any inquiries, feel free to contact me:
 
 Email: lucianogallinger@gmail.com
