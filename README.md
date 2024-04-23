@@ -1,5 +1,5 @@
 <h1 align="center">
-👋 About Me!
+About Me!
 	<a href="https://github.com/LucianoGLR" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -15,7 +15,7 @@
 <pre>
 Hi there! I'm Luciano Gallinger, a passionate Full Stack Developer with a focus on backend, based in Rosario, Santa Fe, Argentina. I specialize in developing efficient and robust web solutions that not only meet functional expectations but also provide an optimal user experience.
 	
-🛠️ What I Do
+<h2>🛠️ What I Do</h2>
 Currently, I am dedicated to:
 
 Developing interactive and high-performance web applications using the latest technologies.
@@ -38,7 +38,6 @@ LinkedIn: Luciano Gallinger
 GitHub: @LucianoGLR
 <pre/>
 
-## 🤝 Connect with me
 <p align="center">
 	<a href="mailto:lucianogallinger@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/luciano-gallinger-954a09183/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
