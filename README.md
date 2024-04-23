@@ -23,27 +23,29 @@ Hi, I'm Luciano Gallinger!
 <hr>
 
 <pre>
-🛠️ Qué Hago
-Actualmente, estoy dedicado a:
+🛠️ What I Do
+Currently, I am dedicated to:
 
-Desarrollar aplicaciones web interactivas y de alto rendimiento utilizando las últimas tecnologías.
-Contribuir en proyectos de código abierto que fomentan el aprendizaje colaborativo y la innovación tecnológica.
-Aprender y aplicar nuevas tecnologías y metodologías en el campo de la programación para mantenerme a la vanguardia del desarrollo web.
-💻 Tecnologías que Utilizo
-Mis proyectos están construidos utilizando una amplia gama de tecnologías modernas, incluyendo:
+- Developing interactive and high-performance web applications using the latest technologies.
+- Contributing to open source projects that foster collaborative learning and technological innovation.
+- Learning and applying new technologies and methodologies in the field of programming to stay at the forefront of web development.
 
-Frontend: HTML, CSS, JavaScript, React, Redux
-Backend: Node.js, Express
-Bases de Datos: PostgreSQL
-Herramientas de Desarrollo: Git, GitHub
-Estoy siempre explorando nuevas tecnologías y técnicas para mejorar la calidad y la eficiencia de mis proyectos.
+💻 Technologies I Use
+My projects are built using a wide range of modern technologies, including:
 
-📬 Datos de Contacto
-Para colaboraciones o cualquier consulta, no dudes en contactarme:
+- **Frontend:** HTML, CSS, JavaScript, React, Redux
+- **Backend:** Node.js, Express
+- **Databases:** PostgreSQL
+- **Development Tools:** Git, GitHub
+I am always exploring new technologies and techniques to improve the quality and efficiency of my projects.
 
-Email: lucianogallinger@gmail.com
-LinkedIn: Luciano Gallinger
-GitHub: @LucianoGLR
+📬 Contact Information
+For collaborations or any inquiries, feel free to contact me:
+
+- **Email:** [lucianogallinger@gmail.com](mailto:lucianogallinger@gmail.com)
+- **LinkedIn:** [Luciano Gallinger](https://www.linkedin.com/in/lucianogallinger)
+- **GitHub:** [@LucianoGLR](https://github.com/LucianoGLR)
+
 <pre/>
 
 ## 🤝 Connect with me
