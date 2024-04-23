@@ -13,6 +13,7 @@ About Me!
 <hr>
 
 <pre>
+<h4>🙋‍♂️ Who I am</h4>
 Hi there! I'm Luciano Gallinger, a passionate Full Stack Developer with a focus on backend, based in Rosario, Santa Fe,
 Argentina. I specialize in developing efficient and robust web solutions that not only meet functional expectations 
 but also provide an optimal user experience.
