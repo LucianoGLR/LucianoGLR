@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Luciano Gallinger!
+👋 About Me!
 	<a href="https://github.com/LucianoGLR" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -13,6 +13,8 @@ Hi, I'm Luciano Gallinger!
 <hr>
 
 <pre>
+Hi there! I'm Luciano Gallinger, a passionate Full Stack Developer with a focus on backend, based in Rosario, Santa Fe, Argentina. I specialize in developing efficient and robust web solutions that not only meet functional expectations but also provide an optimal user experience.
+	
 🛠️ What I Do
 Currently, I am dedicated to:
 
